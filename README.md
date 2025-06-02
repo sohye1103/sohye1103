@@ -1,5 +1,5 @@
 ## Hi there 👋
-한자연 미래차전환종합정보시스템 https://biz.katech.re.kr/main/
+한자연 미래차전환종합정보시스템 <a target="_blank" href="https://biz.katech.re.kr/main/"> https://biz.katech.re.kr/main/ </a>
 
 <!--
 **sohye1103/sohye1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
