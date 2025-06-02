@@ -1,5 +1,6 @@
 <h2 style="color:#333; font-weight:bold; font-size:24px;">my job list</h2>
 <p>모든 작업 공통요소 - 모바일 반응형</p>
+<p>사용기술 - html, css</p>
 <a href="https://dhnet.kodhia.or.kr/main/" target="_blank" style="display:block;margin-bottom:10px;font-size:18px;line-height:1.4;color:#333;">디지털헬스넷 https://dhnet.kodhia.or.kr/main/</a><br /> 
 <p>25년 5월</p>
 <p>-메인페이지와 일부 서브페이지(디지털헬스넷 소개, 디지털헬스케어 지원사업, 알림마당>의료기기규제과학마일스톤) UI 작업-</p>
